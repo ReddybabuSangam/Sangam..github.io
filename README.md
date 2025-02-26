@@ -174,6 +174,11 @@ Telugu: Native
 📬 Contact Me
 
 Email: sangamreddy2024@gmail.com
+
 LinkedIn: linkedin.com/in/sangamreddy
+
 GitHub: github.com/ReddybabuSangam
+
+Xing: xing.com/profile/Reddybabu_Sangam
+
 Website: Sangam.github.io
