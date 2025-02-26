@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sangam Reddybabu | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sangam Reddybabu</h1>
+        <p>IT Systems Administrator | Embedded Systems Engineer</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>M.Sc. Electrical and Information Technology | Specializing in Automation and Energy Systems</p>
+        <p>Experienced in networking, cyber security, and embedded systems design.</p>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <ul>
+            <li>EMI Receiver Design using LTSpice & Python</li>
+            <li>FEM Analysis of Silver Sintered MEMS Sensors</li>
+            <li>RF and Microwave Systems Design</li>
+        </ul>
+    </section>
+
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Coming soon! Stay tuned for technical articles and insights.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:sangamreddy2024@gmail.com">sangamreddy2024@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/sangamreddy/" target="_blank">Connect with me</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sangam Reddybabu. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
